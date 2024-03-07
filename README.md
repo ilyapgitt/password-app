@@ -1,4 +1,4 @@
-- [DEMO LINK](https://ilyapgitt.github.io/Password-strength/)
+- [DEMO LINK](https://ilyapgitt.github.io/password-app/)
 - Node 20.9.0
 
 # PasswordStrengthApp
