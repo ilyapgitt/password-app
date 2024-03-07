@@ -1,3 +1,5 @@
+- [DEMO LINK](https://ilyapgitt.github.io/password-strength/)
+
 # PasswordStrengthApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.

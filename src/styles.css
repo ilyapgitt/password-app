@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  font-family: "Nanum Gothic", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+div {
+  display: flex;
+}
