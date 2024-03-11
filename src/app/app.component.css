@@ -1,19 +1,4 @@
-input {
-  margin-block: 10px;
-  width: 180px;
-  height: 25px;
-}
-
-.strength-indicator {
+.body {
   display: flex;
-  flex-direction: row;
-}
-
-.strength {
-  width: 60px;
-  height: 7px;
-  border-radius: 20px;
-  margin-bottom: 10px;
-  margin-right: 3px;
-  transition: background-color 1s ease;
+  flex-direction: column;
 }

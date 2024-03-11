@@ -1,24 +1,3 @@
-<div >
-  <p class="password-info">Password complexity: {{result}}</p>
+<div>
+  <app-password-input></app-password-input>
 </div>
-
-<div class="password-input">
-  <label for="password">
-    Password:
-    <br>
-    <input
-      type="password"
-      id="password"
-      [(ngModel)]="password"
-      placeholder="Enter your password"
-      (input)="checkPasswordStrength()"
-    />
-  </label>
-
-</div>
-
-
-<div class="strength-indicator">
-  <div class="strength" *ngFor="let color of strengthColors" [ngStyle]="{ 'background-color': color }"></div>
-</div>
-
